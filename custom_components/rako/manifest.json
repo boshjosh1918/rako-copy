@@ -3,9 +3,11 @@
   "name": "Rako",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/rako",
+  "issue_tracker": "https://www.home-assistant.io/integrations/rako"
   "requirements": ["python_rako==0.0.13"],
   "codeowners": [
-    "@marengaz"
+    "@marengaz",
+    "@boshjosh1918"
   ],
   "iot_class": "local_push"
 }
