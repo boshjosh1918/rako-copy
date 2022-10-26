@@ -1,6 +1,7 @@
 {
   "domain": "rako",
   "name": "Rako",
+  "version": "1.0.0",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/rako",
   "issue_tracker": "https://www.home-assistant.io/integrations/rako",
